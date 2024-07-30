@@ -1,0 +1,18 @@
+header {
+  /* width: 100%; */
+  padding: 10px 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo-header-props {
+  font-size: 24px;
+  font-weight: bolder;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
